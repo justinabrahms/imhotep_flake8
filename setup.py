@@ -1,5 +1,11 @@
 from setuptools import setup, find_packages
 
+
+def z():
+    pass
+def y():
+    pass
+
 setup(
     name='imhotep_flake8',
     version='1.0.0',
